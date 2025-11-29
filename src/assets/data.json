@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Tee",
+    "price": 19.99,
+    "description": "Soft cotton tee in classic fit.",
+    "url": "https://images.unsplash.com/photo-1520975922284-df2f0d1d3aa6?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Blue Jeans",
+    "price": 49.99,
+    "description": "Straight-fit denim jeans.",
+    "url": "https://images.unsplash.com/photo-1516826957135-700dedea698c?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Sneakers",
+    "price": 69.99,
+    "description": "Lightweight everyday sneakers.",
+    "url": "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=800&auto=format&fit=crop"
+  }
+]
+
+
